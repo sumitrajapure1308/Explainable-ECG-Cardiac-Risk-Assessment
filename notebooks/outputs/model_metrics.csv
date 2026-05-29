@@ -1,0 +1,2 @@
+test_accuracy,test_loss,best_val_acc,best_val_loss,epochs_trained,macro_auc,total_params
+0.9717,0.0855,0.9739,0.0832,50,0.9963,143601

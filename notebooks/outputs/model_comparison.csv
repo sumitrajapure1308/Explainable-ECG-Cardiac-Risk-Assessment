@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+CNN Only,0.8384,0.9224,0.8384,0.8693,0.9364
+LSTM Only,0.6895,0.9235,0.6895,0.7841,0.7803
+CNN + BiLSTM + Attention (Ours),0.9717,0.9806,0.9717,0.9746,0.9963

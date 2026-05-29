@@ -1,0 +1,8 @@
+Property,MIT-BIH Arrhythmia,PTB Diagnostic ECG
+Source,PhysioNet,PhysioNet
+Total Records,48 records,549 records
+Sampling Rate,360 Hz,1000 Hz
+Channels,"2 (MLII, V5)",15 leads
+Duration per Record,~30 minutes,~2 minutes
+Annotation Type,Beat-level labels,Diagnosis comments
+Primary Use,Training (Primary),Validation (External)
